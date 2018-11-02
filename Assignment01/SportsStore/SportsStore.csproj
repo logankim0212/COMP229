@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="xUnit" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Views\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="Views\Product\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.dll" />
+    <None Remove="SportsStore.Tests\obj\SportsStore.Tests.csproj.nuget.g.props" />
+    <None Remove="SportsStore.Tests\obj\SportsStore.Tests.csproj.nuget.g.targets" />
+    <None Remove="SportsStore.Tests\obj\SportsStore.Tests.csproj.nuget.cache" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.assets.cache" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojAssemblyReference.cache" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.dll" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.pdb" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CopyComplete" />
+    <None Remove="SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Views.dll" />
+    <None Remove="SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb" />
+    <None Remove="SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" />
+    <None Remove="SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" />
+    <None Remove="SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" />
+    <None Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="SportsStore.Tests\UnitTest1.cs" />
+    <Compile Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.Program.cs" />
+    <Compile Remove="SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs" />
+  </ItemGroup>
+</Project>

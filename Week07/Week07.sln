@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSAspDotNetCoreMVCMovie", "AWSAspDotNetCoreMVCMovie\AWSAspDotNetCoreMVCMovie.csproj", "{BE464AD0-86E5-460B-AAFE-71E6D0BEFACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE464AD0-86E5-460B-AAFE-71E6D0BEFACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE464AD0-86E5-460B-AAFE-71E6D0BEFACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE464AD0-86E5-460B-AAFE-71E6D0BEFACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE464AD0-86E5-460B-AAFE-71E6D0BEFACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

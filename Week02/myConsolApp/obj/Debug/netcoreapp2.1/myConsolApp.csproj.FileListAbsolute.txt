@@ -1,0 +1,11 @@
+/Users/logan/myConsolApp/bin/Debug/netcoreapp2.1/myConsolApp.deps.json
+/Users/logan/myConsolApp/bin/Debug/netcoreapp2.1/myConsolApp.runtimeconfig.json
+/Users/logan/myConsolApp/bin/Debug/netcoreapp2.1/myConsolApp.runtimeconfig.dev.json
+/Users/logan/myConsolApp/bin/Debug/netcoreapp2.1/myConsolApp.dll
+/Users/logan/myConsolApp/bin/Debug/netcoreapp2.1/myConsolApp.pdb
+/Users/logan/myConsolApp/obj/Debug/netcoreapp2.1/myConsolApp.csprojAssemblyReference.cache
+/Users/logan/myConsolApp/obj/Debug/netcoreapp2.1/myConsolApp.csproj.CoreCompileInputs.cache
+/Users/logan/myConsolApp/obj/Debug/netcoreapp2.1/myConsolApp.AssemblyInfoInputs.cache
+/Users/logan/myConsolApp/obj/Debug/netcoreapp2.1/myConsolApp.AssemblyInfo.cs
+/Users/logan/myConsolApp/obj/Debug/netcoreapp2.1/myConsolApp.dll
+/Users/logan/myConsolApp/obj/Debug/netcoreapp2.1/myConsolApp.pdb

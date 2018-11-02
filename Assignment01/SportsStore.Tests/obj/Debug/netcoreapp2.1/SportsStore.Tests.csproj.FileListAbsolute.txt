@@ -1,0 +1,13 @@
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/SportsStore.Tests.deps.json
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/SportsStore.Tests.runtimeconfig.json
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/SportsStore.Tests.runtimeconfig.dev.json
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/SportsStore.Tests.dll
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/bin/Debug/netcoreapp2.1/SportsStore.Tests.pdb
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/obj/Debug/netcoreapp2.1/SportsStore.Tests.csproj.CoreCompileInputs.cache
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/obj/Debug/netcoreapp2.1/SportsStore.Tests.AssemblyInfoInputs.cache
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/obj/Debug/netcoreapp2.1/SportsStore.Tests.AssemblyInfo.cs
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/obj/Debug/netcoreapp2.1/SportsStore.Tests.dll
+/Users/logan/Desktop/School/Fall2018/COMP229/Assignment01/SportsStore.Tests/obj/Debug/netcoreapp2.1/SportsStore.Tests.pdb

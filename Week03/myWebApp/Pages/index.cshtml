@@ -1,0 +1,8 @@
+@page
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+<h1>Hello from Logan inside a Razor Page</h1>
+@{int a = 2 + 2;}
+<h2>The class does not finish at @a PM</h2>
+<h3>@Configuration["Message"]</h3>

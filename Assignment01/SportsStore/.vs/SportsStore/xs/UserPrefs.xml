@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{88495C66-1318-4FA7-9164-1BC2790B572B}|Default">
+  <MonoDevelop.Ide.ItemProperties.SportsStore.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Product/List.cshtml.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="24" Column="35" />
+      <File FileName="Models/IProductRepository.cs" Line="7" Column="6" />
+      <File FileName="Models/FakeProductRepository.cs" Line="5" Column="39" />
+      <File FileName="Controllers/ProductController.cs" Line="14" Column="2" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="13" Column="8" />
+      <File FileName="Views/Product/List.cshtml" Line="1" Column="23" />
+      <File FileName="obj/Debug/netcoreapp2.1/Razor/Views/Product/List.g.cshtml.cs" Line="15" Column="20" />
+      <File FileName="Views/Product/List.cshtml.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SportsStore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

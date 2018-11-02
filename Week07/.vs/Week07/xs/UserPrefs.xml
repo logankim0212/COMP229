@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{BE464AD0-86E5-460B-AAFE-71E6D0BEFACC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AWSAspDotNetCoreMVCMovie/Controllers/MoviesController.cs">
+    <Files>
+      <File FileName="AWSAspDotNetCoreMVCMovie/bundleconfig.json" Line="25" Column="1" />
+      <File FileName="AWSAspDotNetCoreMVCMovie/Startup.cs" Line="64" Column="1" />
+      <File FileName="AWSAspDotNetCoreMVCMovie/Controllers/HelloWorldController.cs" Line="26" Column="2" />
+      <File FileName="AWSAspDotNetCoreMVCMovie/Views/HelloWorld/Index.cshtml" Line="4" Column="1" />
+      <File FileName="AWSAspDotNetCoreMVCMovie/Views/HelloWorld/Welcome.cshtml" Line="16" Column="1" />
+      <File FileName="AWSAspDotNetCoreMVCMovie/Models/Movie.cs" Line="13" Column="1" />
+      <File FileName="AWSAspDotNetCoreMVCMovie/Controllers/MoviesController.cs" Line="13" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AWSAspDotNetCoreMVCMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
